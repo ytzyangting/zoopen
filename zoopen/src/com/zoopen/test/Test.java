@@ -1,9 +1,14 @@
 package com.zoopen.test;
 
+/**
+ * 测试一下git好不好
+ * @author yangting
+ *
+ */
 public class Test {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		System.out.println("测试一下git好不好");
 
 	}
 
