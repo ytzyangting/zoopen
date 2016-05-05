@@ -16,7 +16,7 @@ public class Test {
 		System.out.println("测试一下git好不好1");
 		
 		
-		System.out.println("测试一下git好不好1");
+		System.out.println("测试一下git好不好zhu'fen'zhi主分支 xiu'gai修改l1");
 
 	}
 
